@@ -1,0 +1,17 @@
+{
+  "srcFiles": [
+    "./projects/code-based-icons/icons/**/*.svg"
+  ],
+  "outputDirectory": "./projects/code-based-icons/icons",
+  "interfaceName": "CodeBasedIcon",
+  "typeName": "codeBasedIcon",
+  "prefix": "codeBasedIcon",
+  "svgoConfig": {
+    "plugins": [
+      "cleanupAttrs"
+    ]
+  },
+  "modelFileName": "code-based-icon.model",
+  "additionalModelFile": "./projects/code-based-icons/src/lib",
+  "compileSources": true
+}
