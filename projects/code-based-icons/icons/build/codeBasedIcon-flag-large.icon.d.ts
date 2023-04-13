@@ -1,4 +1,4 @@
 export declare const codeBasedIconFlagLarge: {
-    name: 'flag_large';
+    name: 'flagLarge';
     data: string;
 };

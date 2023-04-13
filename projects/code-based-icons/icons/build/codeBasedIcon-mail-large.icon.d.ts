@@ -1,4 +1,4 @@
 export declare const codeBasedIconMailLarge: {
-    name: 'mail_large';
+    name: 'mailLarge';
     data: string;
 };

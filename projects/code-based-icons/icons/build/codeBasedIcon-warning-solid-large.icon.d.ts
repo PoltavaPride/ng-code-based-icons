@@ -1,4 +1,4 @@
 export declare const codeBasedIconWarningSolidLarge: {
-    name: 'warning_solid_large';
+    name: 'warningSolidLarge';
     data: string;
 };

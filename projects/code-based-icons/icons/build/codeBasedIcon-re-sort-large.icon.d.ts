@@ -1,4 +1,4 @@
 export declare const codeBasedIconReSortLarge: {
-    name: 're_sort_large';
+    name: 'reSortLarge';
     data: string;
 };

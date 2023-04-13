@@ -1,4 +1,4 @@
 export declare const codeBasedIconCalendarLarge: {
-    name: 'calendar_large';
+    name: 'calendarLarge';
     data: string;
 };

@@ -1,4 +1,4 @@
 export declare const codeBasedIconDocumentLarge: {
-    name: 'document_large';
+    name: 'documentLarge';
     data: string;
 };

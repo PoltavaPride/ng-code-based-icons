@@ -1,4 +1,4 @@
 export declare const codeBasedIconTickLarge: {
-    name: 'tick_large';
+    name: 'tickLarge';
     data: string;
 };

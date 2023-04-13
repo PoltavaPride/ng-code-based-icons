@@ -1,4 +1,4 @@
 export declare const codeBasedIconBookmarkLarge: {
-    name: 'bookmark_large';
+    name: 'bookmarkLarge';
     data: string;
 };

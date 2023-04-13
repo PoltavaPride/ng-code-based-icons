@@ -1,4 +1,4 @@
 export declare const codeBasedIconYoutubeLarge: {
-    name: 'youtube_large';
+    name: 'youtubeLarge';
     data: string;
 };

@@ -1,4 +1,4 @@
 export declare const codeBasedIconContactLarge: {
-    name: 'contact_large';
+    name: 'contactLarge';
     data: string;
 };

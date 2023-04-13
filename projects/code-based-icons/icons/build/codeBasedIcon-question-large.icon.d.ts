@@ -1,4 +1,4 @@
 export declare const codeBasedIconQuestionLarge: {
-    name: 'question_large';
+    name: 'questionLarge';
     data: string;
 };

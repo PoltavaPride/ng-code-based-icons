@@ -1,4 +1,4 @@
 export declare const codeBasedIconCrossLarge: {
-    name: 'cross_large';
+    name: 'crossLarge';
     data: string;
 };

@@ -1,4 +1,4 @@
 export declare const codeBasedIconPlayLarge: {
-    name: 'play_large';
+    name: 'playLarge';
     data: string;
 };

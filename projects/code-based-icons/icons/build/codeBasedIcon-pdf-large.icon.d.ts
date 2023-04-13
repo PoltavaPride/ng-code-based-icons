@@ -1,4 +1,4 @@
 export declare const codeBasedIconPdfLarge: {
-    name: 'pdf_large';
+    name: 'pdfLarge';
     data: string;
 };

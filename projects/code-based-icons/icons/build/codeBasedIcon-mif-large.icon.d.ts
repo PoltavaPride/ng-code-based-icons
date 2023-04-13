@@ -1,4 +1,4 @@
 export declare const codeBasedIconMifLarge: {
-    name: 'mif_large';
+    name: 'mifLarge';
     data: string;
 };

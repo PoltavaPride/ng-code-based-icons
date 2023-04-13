@@ -1,4 +1,4 @@
 export declare const codeBasedIconFavoriteStarLarge: {
-    name: 'favorite_star_large';
+    name: 'favoriteStarLarge';
     data: string;
 };

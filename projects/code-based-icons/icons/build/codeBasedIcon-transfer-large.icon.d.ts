@@ -1,4 +1,4 @@
 export declare const codeBasedIconTransferLarge: {
-    name: 'transfer_large';
+    name: 'transferLarge';
     data: string;
 };

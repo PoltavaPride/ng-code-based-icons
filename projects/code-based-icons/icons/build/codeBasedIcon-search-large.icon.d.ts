@@ -1,4 +1,4 @@
 export declare const codeBasedIconSearchLarge: {
-    name: 'search_large';
+    name: 'searchLarge';
     data: string;
 };

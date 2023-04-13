@@ -1,4 +1,4 @@
 export declare const codeBasedIconGpsLarge: {
-    name: 'gps_large';
+    name: 'gpsLarge';
     data: string;
 };

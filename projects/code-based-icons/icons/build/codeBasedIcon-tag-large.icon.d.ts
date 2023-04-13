@@ -1,4 +1,4 @@
 export declare const codeBasedIconTagLarge: {
-    name: 'tag_large';
+    name: 'tagLarge';
     data: string;
 };

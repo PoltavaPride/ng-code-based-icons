@@ -1,4 +1,4 @@
 export declare const codeBasedIconTwitterLarge: {
-    name: 'twitter_large';
+    name: 'twitterLarge';
     data: string;
 };

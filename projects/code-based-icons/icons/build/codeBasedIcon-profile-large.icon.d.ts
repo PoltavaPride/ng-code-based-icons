@@ -1,4 +1,4 @@
 export declare const codeBasedIconProfileLarge: {
-    name: 'profile_large';
+    name: 'profileLarge';
     data: string;
 };

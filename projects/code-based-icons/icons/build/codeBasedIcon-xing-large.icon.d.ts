@@ -1,4 +1,4 @@
 export declare const codeBasedIconXingLarge: {
-    name: 'xing_large';
+    name: 'xingLarge';
     data: string;
 };

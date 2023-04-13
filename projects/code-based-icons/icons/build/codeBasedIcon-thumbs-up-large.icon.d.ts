@@ -1,4 +1,4 @@
 export declare const codeBasedIconThumbsUpLarge: {
-    name: 'thumbs_up_large';
+    name: 'thumbsUpLarge';
     data: string;
 };

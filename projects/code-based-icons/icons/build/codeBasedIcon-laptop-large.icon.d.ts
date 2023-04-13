@@ -1,4 +1,4 @@
 export declare const codeBasedIconLaptopLarge: {
-    name: 'laptop_large';
+    name: 'laptopLarge';
     data: string;
 };

@@ -1,4 +1,4 @@
 export declare const codeBasedIconMoveToLarge: {
-    name: 'move_to_large';
+    name: 'moveToLarge';
     data: string;
 };

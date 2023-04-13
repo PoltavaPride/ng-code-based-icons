@@ -6,6 +6,7 @@
   "interfaceName": "CodeBasedIcon",
   "typeName": "codeBasedIcon",
   "prefix": "codeBasedIcon",
+  "delimiter": "CAMEL",
   "svgoConfig": {
     "plugins": [
       "cleanupAttrs"

@@ -1,4 +1,4 @@
 export declare const codeBasedIconShipmentLarge: {
-    name: 'shipment_large';
+    name: 'shipmentLarge';
     data: string;
 };

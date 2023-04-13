@@ -1,4 +1,4 @@
 export declare const codeBasedIconArrowSortUpLarge: {
-    name: 'arrow_sort_up_large';
+    name: 'arrowSortUpLarge';
     data: string;
 };

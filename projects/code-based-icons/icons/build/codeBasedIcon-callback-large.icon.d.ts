@@ -1,4 +1,4 @@
 export declare const codeBasedIconCallbackLarge: {
-    name: 'callback_large';
+    name: 'callbackLarge';
     data: string;
 };

@@ -1,4 +1,4 @@
 export declare const codeBasedIconResetLarge: {
-    name: 'reset_large';
+    name: 'resetLarge';
     data: string;
 };

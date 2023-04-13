@@ -1,4 +1,4 @@
 export declare const codeBasedIconProductsLarge: {
-    name: 'products_large';
+    name: 'productsLarge';
     data: string;
 };

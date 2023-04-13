@@ -1,4 +1,4 @@
 export declare const codeBasedIconLogoutLarge: {
-    name: 'logout_large';
+    name: 'logoutLarge';
     data: string;
 };

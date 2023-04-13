@@ -1,4 +1,4 @@
 export declare const codeBasedIconPinterestLarge: {
-    name: 'pinterest_large';
+    name: 'pinterestLarge';
     data: string;
 };

@@ -1,4 +1,4 @@
 export declare const codeBasedIconEditLarge: {
-    name: 'edit_large';
+    name: 'editLarge';
     data: string;
 };

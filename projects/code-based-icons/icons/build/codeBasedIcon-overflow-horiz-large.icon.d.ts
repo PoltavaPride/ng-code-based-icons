@@ -1,4 +1,4 @@
 export declare const codeBasedIconOverflowHorizLarge: {
-    name: 'overflow_horiz_large';
+    name: 'overflowHorizLarge';
     data: string;
 };

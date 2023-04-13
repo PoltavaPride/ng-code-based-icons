@@ -1,4 +1,4 @@
 export declare const codeBasedIconActivateLarge: {
-    name: 'activate_large';
+    name: 'activateLarge';
     data: string;
 };

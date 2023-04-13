@@ -1,4 +1,4 @@
 export declare const codeBasedIconUploadLarge: {
-    name: 'upload_large';
+    name: 'uploadLarge';
     data: string;
 };

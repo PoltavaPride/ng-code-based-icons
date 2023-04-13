@@ -1,4 +1,4 @@
 export declare const codeBasedIconDictateLarge: {
-    name: 'dictate_large';
+    name: 'dictateLarge';
     data: string;
 };

@@ -1,4 +1,4 @@
 export declare const codeBasedIconRemoveLarge: {
-    name: 'remove_large';
+    name: 'removeLarge';
     data: string;
 };

@@ -1,4 +1,4 @@
 export declare const codeBasedIconFilterLarge: {
-    name: 'filter_large';
+    name: 'filterLarge';
     data: string;
 };

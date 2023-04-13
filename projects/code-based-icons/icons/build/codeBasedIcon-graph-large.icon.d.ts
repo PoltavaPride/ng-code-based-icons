@@ -1,4 +1,4 @@
 export declare const codeBasedIconGraphLarge: {
-    name: 'graph_large';
+    name: 'graphLarge';
     data: string;
 };

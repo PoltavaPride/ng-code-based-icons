@@ -1,4 +1,4 @@
 export declare const codeBasedIconPhoneLarge: {
-    name: 'phone_large';
+    name: 'phoneLarge';
     data: string;
 };

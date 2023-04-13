@@ -1,4 +1,4 @@
 export declare const codeBasedIconClearLarge: {
-    name: 'clear_large';
+    name: 'clearLarge';
     data: string;
 };

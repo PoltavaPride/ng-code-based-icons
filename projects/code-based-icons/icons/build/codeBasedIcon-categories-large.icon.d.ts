@@ -1,4 +1,4 @@
 export declare const codeBasedIconCategoriesLarge: {
-    name: 'categories_large';
+    name: 'categoriesLarge';
     data: string;
 };

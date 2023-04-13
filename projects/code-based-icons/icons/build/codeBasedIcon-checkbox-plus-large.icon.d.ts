@@ -1,4 +1,4 @@
 export declare const codeBasedIconCheckboxPlusLarge: {
-    name: 'checkbox_plus_large';
+    name: 'checkboxPlusLarge';
     data: string;
 };

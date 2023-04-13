@@ -1,4 +1,4 @@
 export declare const codeBasedIconSortDown: {
-    name: 'sort_down';
+    name: 'sortDown';
     data: string;
 };

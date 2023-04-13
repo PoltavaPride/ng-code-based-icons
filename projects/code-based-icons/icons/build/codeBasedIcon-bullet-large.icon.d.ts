@@ -1,4 +1,4 @@
 export declare const codeBasedIconBulletLarge: {
-    name: 'bullet_large';
+    name: 'bulletLarge';
     data: string;
 };

@@ -1,4 +1,4 @@
 export declare const codeBasedIconCartEmptyLarge: {
-    name: 'cart_empty_large';
+    name: 'cartEmptyLarge';
     data: string;
 };

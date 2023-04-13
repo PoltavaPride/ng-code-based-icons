@@ -1,4 +1,4 @@
 export declare const codeBasedIconLinkedinLarge: {
-    name: 'linkedin_large';
+    name: 'linkedinLarge';
     data: string;
 };

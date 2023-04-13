@@ -1,4 +1,4 @@
 export declare const codeBasedIconInstagramLarge: {
-    name: 'instagram_large';
+    name: 'instagramLarge';
     data: string;
 };

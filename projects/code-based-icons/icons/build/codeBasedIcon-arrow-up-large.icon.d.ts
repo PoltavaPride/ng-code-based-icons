@@ -1,4 +1,4 @@
 export declare const codeBasedIconArrowUpLarge: {
-    name: 'arrow_up_large';
+    name: 'arrowUpLarge';
     data: string;
 };

@@ -1,4 +1,4 @@
 export declare const codeBasedIconSortUnsorted: {
-    name: 'sort_unsorted';
+    name: 'sortUnsorted';
     data: string;
 };

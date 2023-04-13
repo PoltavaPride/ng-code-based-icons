@@ -1,4 +1,4 @@
 export declare const codeBasedIconSuccessSolidLarge: {
-    name: 'success_solid_large';
+    name: 'successSolidLarge';
     data: string;
 };

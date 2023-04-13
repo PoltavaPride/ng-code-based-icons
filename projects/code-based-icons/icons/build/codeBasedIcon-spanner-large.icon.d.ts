@@ -1,4 +1,4 @@
 export declare const codeBasedIconSpannerLarge: {
-    name: 'spanner_large';
+    name: 'spannerLarge';
     data: string;
 };

@@ -1,4 +1,4 @@
 export declare const codeBasedIconPrintLarge: {
-    name: 'print_large';
+    name: 'printLarge';
     data: string;
 };

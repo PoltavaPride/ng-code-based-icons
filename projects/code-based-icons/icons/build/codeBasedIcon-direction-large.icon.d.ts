@@ -1,4 +1,4 @@
 export declare const codeBasedIconDirectionLarge: {
-    name: 'direction_large';
+    name: 'directionLarge';
     data: string;
 };

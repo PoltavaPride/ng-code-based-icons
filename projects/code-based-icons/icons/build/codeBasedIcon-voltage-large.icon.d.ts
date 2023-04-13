@@ -1,4 +1,4 @@
 export declare const codeBasedIconVoltageLarge: {
-    name: 'voltage_large';
+    name: 'voltageLarge';
     data: string;
 };

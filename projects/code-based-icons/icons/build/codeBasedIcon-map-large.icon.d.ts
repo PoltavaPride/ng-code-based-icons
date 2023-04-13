@@ -1,4 +1,4 @@
 export declare const codeBasedIconMapLarge: {
-    name: 'map_large';
+    name: 'mapLarge';
     data: string;
 };

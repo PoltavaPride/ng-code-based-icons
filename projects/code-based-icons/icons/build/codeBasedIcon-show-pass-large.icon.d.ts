@@ -1,4 +1,4 @@
 export declare const codeBasedIconShowPassLarge: {
-    name: 'show_pass_large';
+    name: 'showPassLarge';
     data: string;
 };

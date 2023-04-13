@@ -1,4 +1,4 @@
 export declare const codeBasedIconSubscriptionLarge: {
-    name: 'subscription_large';
+    name: 'subscriptionLarge';
     data: string;
 };

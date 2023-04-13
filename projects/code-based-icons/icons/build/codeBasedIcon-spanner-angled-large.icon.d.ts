@@ -1,4 +1,4 @@
 export declare const codeBasedIconSpannerAngledLarge: {
-    name: 'spanner_angled_large';
+    name: 'spannerAngledLarge';
     data: string;
 };
